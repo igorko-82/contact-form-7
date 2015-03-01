@@ -1,0 +1,26 @@
+{
+  "name": "my-cf7",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Powerful fields for WordPress developers",
+  "homepage": "https://wordpress.org/plugins/contact-form-7/",
+  "authors": [
+    {
+      "name": "Takayuki Miyoshi",
+      "email": "info@cf7.com",
+      "homepage": "https://wordpress.org/plugins/contact-form-7/"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://wordpress.org/plugins/contact-form-7/",
+    "forum": "https://wordpress.org/plugins/contact-form-7/"
+  },
+  "require": {
+    "php": ">=5.5.0",
+    "composer/installers": "~1.0"
+  },
+  "minimum-stability": "dev"
+}
